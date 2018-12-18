@@ -1,0 +1,1 @@
+echo "Hellow from pphwellsfargo %date%:%time%"
